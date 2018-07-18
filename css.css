@@ -8,3 +8,12 @@
     top: 0px;
     z-index: 1000;
     }
+
+#song_title{
+    color: white;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    font-size: 12px;
+    font-weight: bolder;
+    line-height: 20px;
+    width: 270px;
+    }
