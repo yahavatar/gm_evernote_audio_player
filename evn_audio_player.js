@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name     	  Yah's Evernote Audio Player
-// @description Simple Audio File player for Evernote shared notebooks
+// @description   Simple Audio File player for Evernote shared notebooks
 // @version  	  1.0
-// @include		  https://www.evernote.com/pub/*
-// @require     http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js
+// @include	  https://www.evernote.com/pub/*
+// @require       http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js
 // ==/UserScript==
 //==========================================================================
 // * It is important to include an early version of jQuery... < 3.0. We need .live()!
