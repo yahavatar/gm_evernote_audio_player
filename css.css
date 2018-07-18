@@ -1,0 +1,10 @@
+#div_audio_player{
+    background-color: black;
+    border-radius: 5px;
+    left: 600px;
+    opacity: 0.8;
+    position: absolute;
+    text-align: center;
+    top: 0px;
+    z-index: 1000;
+    }
